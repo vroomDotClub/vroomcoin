@@ -1,0 +1,1 @@
+./vroomcoin-qt -datadir="./data"

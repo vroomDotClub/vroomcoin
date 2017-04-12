@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Vroomcoin
+Comment=Vroomcoin P2P Cryptocurrency
+Comment[fr]=Vroomcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Vroomcoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/vroomcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/vroomcoin;
+Categories=Office;

@@ -1,0 +1,9 @@
+Building Vroomcoin
+
+See doc/readme-qt.rst for instructions on building Vroomcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Vroomcoin.
+
+See doc/build-*.txt for instructions on building Vroomcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Vroomcoin.

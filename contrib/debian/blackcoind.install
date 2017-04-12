@@ -1,0 +1,2 @@
+debian/bin/vroomcoind usr/bin
+src/vroomcoind usr/lib/vroomcoin
